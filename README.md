@@ -8,4 +8,4 @@ A user-friendly Python application to generate customized QR codes using a graph
 - Download the generated QR code as a PNG image
 - Built with `Tkinter`, `Pillow`, `qrcode`, and `customtkinter`
   
-QR Code Generator.jpg
+QR Code Demo.jpg
